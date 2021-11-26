@@ -1,0 +1,10 @@
+a=1
+a1=2
+print(a+a1)
+x=1
+x2=1.2
+x11="yosef"
+m=True
+print(type(x))
+print(dir(x11))
+print(x11.find('s'))
